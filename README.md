@@ -1,4 +1,4 @@
-GROUP PROJECT
+TEAM PROJECT FOR 0x11. C-printf
 
 Task 0
 I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life
@@ -48,7 +48,7 @@ The negative is the equivalent of the composer's score, and the print the perfor
 Handle the precision for non-custom conversion specifiers.
 
 Task 11
-It's depressing when you're still around and your albums are out of print
+It's depressing when you're still aroundi and your albums are out of print
 Handle the 0 flag character for non-custom conversion specifiers.
 
 Task 12
